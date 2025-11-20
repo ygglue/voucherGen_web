@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-y9o*t!_635#j9*r-l+6l3dein)ahb^0&h8ok9ab2ukx!q2)mzr
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://vouchergen.pythonanywhere.com", "127.0.0.1:8000"]
 
 
 # Application definition
